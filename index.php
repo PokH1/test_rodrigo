@@ -10,5 +10,8 @@
         Bienvenido al la pagina de Rodrigo,
         un apasionado de la tecnología y el desarrollo web.
     </h1>
+    <div style="margin-top: 10px;">
+        <a href="/about.php">Acerca de</a>
+    </div>
 </body>
 </html>
